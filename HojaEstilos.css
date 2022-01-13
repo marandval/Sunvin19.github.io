@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14 dic 2021, 12:05:06
+    Author     : user
+*/
+            h3{
+                color: #60b8ad;
+                font-family: Arial;
+                font-weight: bold;
+                text-align: center;
+            }
+            tr{
+                color: #004e71;
+                font-weight: bold;
+                font-family: unset;
+                background: whitesmoke;
+                text-align: left;
+            }
+            td{
+                padding: 15px 2px 10px 5px;
+            }
